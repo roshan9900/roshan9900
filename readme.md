@@ -29,9 +29,6 @@ Welcome to my GitHub! I'm Roshan Salunke, a data science trainer passionate abou
 ## 🔧 Predictive Maintenance
 - **[predictive_maintenance](https://github.com/roshan9900/predictive_maintenance)**: This project aims to forecast failures in industrial machines using machine learning. Includes data preparation, model training, and evaluation to enhance maintenance schedules and reduce downtime.
 
-## 🚀 Big Data Learning
-- **[bigdatalearning](https://github.com/roshan9900/bigdatalearning)**: Resources, notes, and projects related to my big data learning journey, covering tools like Spark, Hadoop, and distributed data processing.
-
 ## 📊 Real-Time Stock Price Prediction
 - **[Streamlit_Stock_Prices](https://github.com/roshan9900/Streamlit_Stock_Prices)**: A Streamlit application for stock price forecasting, leveraging time series analysis with LSTM to provide real-time predictions on stock prices.
 
